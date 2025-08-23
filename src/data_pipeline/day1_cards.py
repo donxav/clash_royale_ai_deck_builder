@@ -19,5 +19,19 @@ tried to loop but is inefficient
 '''
 
 #cleaner approach
-for card in cards:
-    print(f"Troop:{card['name']:<10}\t\t\tCost:{card['elixir']}")
+def card_display(cards):
+    for card in cards:
+        print(f"Troop:{card['name']:<10}\t\t\tCost:{card['elixir']}")
+
+
+#funtion to delete cards
+def del_card(cards,name):
+    for card in cards:
+        if card['name']==name:
+            cards.remove(card)
+            break #stop after one match 
+
+card_display(cards)
+del_card(cards,"Knight")
+print(" ")
+card_display(cards)
