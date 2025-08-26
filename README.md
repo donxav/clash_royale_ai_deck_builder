@@ -28,7 +28,7 @@ This project is also structured as a **Data Science portfolio project**, demonst
 
 **Overall Progress**
 
-![Progress](https://progress-bar.dev/0/?title=Completed)
+![Progress](https://progress-bar.dev/4/?title=Completed)
 
 ---
 
