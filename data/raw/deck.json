@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Hog Rider",
+        "Elixir": 4,
+        "Type": "Win Condition",
+        "Rarity": "Rare"
+    },
+    {
+        "name": "Musketeer",
+        "Elixir": 4,
+        "Type": "Ranged Support",
+        "Rarity": "Rare"
+    },
+    {
+        "name": "Cannon",
+        "Elixir": 3,
+        "Type": "Defensive Building",
+        "Rarity": "Common"
+    },
+    {
+        "name": "Log",
+        "Elixir": 2,
+        "Type": "Spell",
+        "Rarity": "Legendary"
+    },
+    {
+        "name": "Fireball",
+        "Elixir": 4,
+        "Type": "Spell",
+        "Rarity": "Rare"
+    },
+    {
+        "name": "Skeletons",
+        "Elixir": 1,
+        "Type": "Cycle",
+        "Rarity": "Common"
+    },
+    {
+        "name": "Ice Spirit",
+        "Elixir": 1,
+        "Type": "Cycle",
+        "Rarity": "Common"
+    },
+    {
+        "name": "Fireball",
+        "Elixir": 3,
+        "Type": "Ranged Support",
+        "Rarity": "Common"
+    },
+    {
+        "name": "Fireball",
+        "Elixir": 4,
+        "Type": "Spell",
+        "Rarity": "Rare"
+    },
+    {
+        "name": "Fireball",
+        "elixir": 4,
+        "type": "Spell",
+        "Rarity": "Rare"
+    }
+]
