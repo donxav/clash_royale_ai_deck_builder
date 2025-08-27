@@ -55,6 +55,12 @@
     },
     {
         "name": "Fireball",
+        "Elixir": 4,
+        "Type": "Spell",
+        "Rarity": "Rare"
+    },
+    {
+        "name": "Fireball",
         "elixir": 4,
         "type": "Spell",
         "Rarity": "Rare"
